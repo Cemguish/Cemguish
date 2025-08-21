@@ -5,12 +5,11 @@
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
-  - [osTicket: Prerequisites and Installation](https://github.com/Cemguish/osticket-prereqs)
-  - [osTicket: Post-Installation Configuration](https://github.com/Cemguish/configure-ad)
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/Cemguish/ticket-lifecycle)
+  - [Enhancing IT Support with OS Ticket: Deployment and Lifecycle Management](https://github.com/Cemguish/osticket-prereqs)
+  - [OS Ticket System Implementation: Post-Installation Configuration and Optimization](https://github.com/Cemguish/configure-ad)
 - <b>Microsoft Azure</b>
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/Cemguish/configure-ad)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/Cemguish/azure-network-protocols)
+  - [Deploying and Managing Active Directory in Azure with PowerShell & Group Policy](https://github.com/Cemguish/configure-ad)
+ 
 
 <h2>🤳Connect with me:</h2>
 

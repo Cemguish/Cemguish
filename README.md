@@ -6,11 +6,11 @@
 
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/Cemguish/osticket-prereqs)
-  - [osTicket: Post-Installation Configuration](https://github.com/www.linkedin.com/in/cemal-guishard-241aa537b/configure-ad)
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/www.linkedin.com/in/cemal-guishard-241aa537b/ticket-lifecycle)
+  - [osTicket: Post-Installation Configuration](https://github.com/Cemguish/configure-ad)
+  - [osTicket: Ticket Lifecycle Examples](https://github.com/Cemguish/ticket-lifecycle)
 - <b>Microsoft Azure</b>
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/joshmadakorcc/configure-ad)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/joshmadakorcc/azure-network-protocols)
+  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/Cemguish/configure-ad)
+  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/Cemguish/azure-network-protocols)
 
 <h2>🤳Connect with me:</h2>
 

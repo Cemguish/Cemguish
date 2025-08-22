@@ -8,7 +8,7 @@
   - [Enhancing IT Support with OS Ticket: Deployment and Lifecycle Management](https://github.com/Cemguish/osticket-prereqs)
   - [OS Ticket System Implementation: Post-Installation Configuration and Optimization](https://github.com/Cemguish/configure-ad)
 - <b>Microsoft Azure</b>
-  - [Deploying and Managing Active Directory in Azure with PowerShell & Group Policy](https://github.com/Cemguish/configure-ad)
+  - [Deploying and Managing Active Directory in Azure with PowerShell & Group Policy](https://github.com/Cemguish/azure-network-protocols)
  
 
 <h2>🤳Connect with me:</h2>

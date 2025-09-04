@@ -13,5 +13,5 @@
 
 <h2>🤳Connect with me:</h2>
 
-www.linkedin.com/in/cemal-guishard-241aa537b
+www.linkedin.com/in/cemal-guishard
 
